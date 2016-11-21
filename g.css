@@ -1,0 +1,153 @@
+#cuerpo{
+	background-image: url("https://3.bp.blogspot.com/-mkYg4SlhPsU/VsLQDQTnS_I/AAAAAAAABzM/gPdkZh7ml0Q/s1600/fondos-de-pantalla-para-celulares-tactiles.jpg");
+	background-size: 1407px 600px;
+	background-repeat: round;
+	width: 100%;
+	height: 800px;
+	display: flex;
+	justify-content: center;
+}
+#borde{
+	background-color: black;
+	width: 600px;
+	height: 600px;
+	display: flex;
+	flex-wrap: wrap;
+
+
+	
+
+
+}
+#resultados{
+	background-color: black;
+	font-size: 3em;
+	color: white;
+	text-align: right;
+	width: 580px;
+	height: 70px;
+	margin:7px;
+	
+}
+#teclas{
+	background-color: white;
+	width: 400px;
+	height: 500px;
+	margin: 7px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+#operaciones{
+	background-color: white;
+	width: 160px;
+	height: 500px;
+	margin: 7px;
+
+}
+#uno{
+	background-color: #04B4AE;
+	width: 90px;
+	height: 90px;
+	margin-top: 10px;
+}
+#dos{
+	background-color: #04B4AE;
+	width: 90px;
+	height: 90px;
+	margin-top: 10px;
+}
+#tres{
+	background-color: #04B4AE;
+	width: 90px;
+	height: 90px;
+	margin-top: 10px;
+}
+#cuatro{
+	background-color: #04B4AE;
+	width: 90px;
+	height: 90px;
+	margin-top: 10px;
+}
+#cinco{
+	background-color: #04B4AE;
+	width: 90px;
+	height: 90px;
+}
+#seis{
+	background-color: #04B4AE;
+	width: 90px;
+	height: 90px;
+}
+#siete{
+	background-color: #04B4AE;
+	width: 90px;
+	height: 90px;
+}
+#ocho{
+	background-color: #04B4AE;
+	width: 90px;
+	height: 90px;
+}
+#nueve{
+	background-color: #04B4AE;
+	width: 90px;
+	height: 90px;
+}
+#cero{
+	background-color: #04B4AE;
+	width: 90px;
+	height: 90px;
+}
+h1{
+	text-align: center;
+}
+#res{
+	font-size: 50px;
+	text-align: center;
+	width:90%; 
+	height:90%;
+	margin: auto;
+}
+#sumar{
+	background-color: #04B4AE;
+	width: 140px;
+	height: 50px;
+	margin-left: 10px;
+}
+#restar{
+	background-color: #04B4AE;
+	width: 140px;
+	height: 50px;
+	margin-left: 10px;
+}
+#multi{
+	background-color: #04B4AE;
+	width: 140px;
+	height: 50px;
+	margin-left: 10px;
+}
+#divi{
+	background-color: #04B4AE;
+	width: 140px;
+	height: 50px;
+	margin-left: 10px;
+}
+#borrar{
+	background-color: #04B4AE;
+	width: 140px;
+	height: 50px;
+	margin-left: 10px;
+}
+#borrartodo{
+	background-color: red;
+	width: 140px;
+	height: 50px;
+	margin-left: 10px;
+}
+#igual{
+	background-color: #04B4AE;
+	width: 140px;
+	height: 40px;
+	margin-left: 10px;
+}
